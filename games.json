@@ -347,4 +347,10 @@
     "thumbnail": "https://yt3.ggpht.com/v6fooKZ0CG-x3TrbnLtUMfxBioHzs7qdfCvB1-EV64lT_zEfW5nnewAfOsIZjti9THKuNL77wNbt4A=s288-rw-nd-v1",
     "url": "https://veltrixcoder.github.io/youtube-playables/turbo-stars"
   }
+  {
+    "name": "Veltrix Runner",
+    "description": "Race and learn",
+    "thumbnail": "https://i.pinimg.com/736x/66/62/7b/66627b37978367a0117220506b3e8256.jpg",
+    "url": "https://veltrix-runner.vercel.app"
+  }
 ]
